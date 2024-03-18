@@ -1205,6 +1205,6 @@ footer p {
 }
 
 *{
-  display: none;
+  /* display: none; */
   color: red;
 }
